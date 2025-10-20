@@ -2,45 +2,46 @@
 Created an interactive Power BI dashboard to analyze ShopNest’s e-commerce data, covering sales, customers, products, and deliveries.Cleaned and modeled data using Power Query, built KPIs with DAX, and visualized key insights on revenue, profit, and delivery performance. Enabled data-driven decision-making through dynamic, user-friendly dashboards.
 
 
- ShopNest Store Power BI Project
- Overview
+ShopNest Store Power BI Project
+Overview:
 
-The ShopNest Store Power BI Project focuses on analyzing e-commerce performance through dynamic, interactive dashboards. The dataset includes details on orders, customers, products, payments, and delivery performance. The goal is to uncover business insights and support data-driven decision-making.
+The ShopNest Store Power BI Project focuses on analyzing e-commerce performance using interactive dashboards. The dataset includes information on sales, customers, products, payments, and delivery details. The objective of this project is to provide actionable insights that help understand business performance, improve efficiency, and support data-driven decision-making.
 
- Objective
+Objective:
 
-To design and build a Power BI dashboard that visualizes key metrics such as total revenue, profit, order trends, customer behavior, and delivery performance.
+To design and build a Power BI dashboard that visualizes key performance metrics such as total revenue, profit, customer distribution, order trends, and delivery performance for ShopNest Store.
 
- Process
+Process:
 
-Data Cleaning & Transformation: Used Power Query to remove duplicates, handle missing values, and format raw e-commerce data.
+Data Cleaning and Transformation: Used Power Query to handle missing data, correct inconsistencies, and format raw data.
 
-Data Modeling: Built relationships between multiple tables (Orders, Products, Customers, Payments).
+Data Modeling: Established relationships between multiple data tables, including orders, products, customers, and payments.
 
-DAX Measures: Created KPIs such as Total Sales, Average Profit, Delivery Delay %, and Revenue by Category.
+DAX Implementation: Created calculated measures and KPIs such as Total Sales, Average Profit, and Delivery Delay Percentage.
 
-Visualization: Designed interactive charts, slicers, and trend visuals to analyze sales and customer insights.
+Dashboard Design: Developed interactive dashboards with charts, filters, and visuals for easy trend analysis and comparison.
 
-Dashboard Publishing: Published the report to Power BI Service for sharing and interactive use.
+Publishing: Published the dashboard to Power BI Service for interactive and real-time business insights.
 
-Key Insights
+Key Insights:
 
-Identified top-performing products and high-revenue regions.
+Identified top-selling products and high-revenue regions.
 
-Analyzed sales and profit trends across months and categories.
+Analyzed monthly sales and profit trends.
 
-Highlighted customer segments contributing most to total revenue.
+Highlighted customer purchasing patterns and retention trends.
 
-Evaluated delivery performance and delays affecting satisfaction.
+Evaluated delivery performance to identify delays affecting customer satisfaction.
 
- Tools & Skills
+Tools and Skills:
 
 Tools: Power BI, Power Query, DAX, Excel
-Skills: Data Cleaning, Data Modeling, Dashboard Design, Business Analysis
+Skills: Data Cleaning, Data Modeling, Visualization, Dashboard Design, Business Analysis
 
- Outcome
+Outcome:
 
-Developed a professional and interactive Power BI dashboard providing actionable insights into ShopNest’s sales, profitability, and delivery efficiency — demonstrating strong analytical and visualization skills.
+Delivered a professional and interactive Power BI dashboard that transformed raw e-commerce data into meaningful insights. The project demonstrates strong analytical, visualization, and business intelligence skills.
+
 
 <img width="1321" height="748" alt="image" src="https://github.com/user-attachments/assets/9c892633-059f-429b-9756-17c33ddde688" />
 
