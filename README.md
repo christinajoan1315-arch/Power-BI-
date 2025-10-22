@@ -3,15 +3,15 @@ Created an interactive Power BI dashboard to analyze ShopNest’s e-commerce dat
 
 
 ShopNest Store Power BI Project
-Overview:
+## Overview:
 
 The ShopNest Store Power BI Project focuses on analyzing e-commerce performance using interactive dashboards. The dataset includes information on sales, customers, products, payments, and delivery details. The objective of this project is to provide actionable insights that help understand business performance, improve efficiency, and support data-driven decision-making.
 
-Objective:
+## Objective:
 
 To design and build a Power BI dashboard that visualizes key performance metrics such as total revenue, profit, customer distribution, order trends, and delivery performance for ShopNest Store.
 
-Process:
+## Process:
 
 Data Cleaning and Transformation: Used Power Query to handle missing data, correct inconsistencies, and format raw data.
 
@@ -23,7 +23,7 @@ Dashboard Design: Developed interactive dashboards with charts, filters, and vis
 
 Publishing: Published the dashboard to Power BI Service for interactive and real-time business insights.
 
-Key Insights:
+## Key Insights:
 
 Identified top-selling products and high-revenue regions.
 
@@ -33,15 +33,15 @@ Highlighted customer purchasing patterns and retention trends.
 
 Evaluated delivery performance to identify delays affecting customer satisfaction.
 
-Tools and Skills:
+## Tools and Skills:
 
 Tools: Power BI, Power Query, DAX, Excel
 Skills: Data Cleaning, Data Modeling, Visualization, Dashboard Design, Business Analysis
 
-Outcome:
+## Outcome:
 
 Delivered a professional and interactive Power BI dashboard that transformed raw e-commerce data into meaningful insights. The project demonstrates strong analytical, visualization, and business intelligence skills.
 
 
-<img width="1321" height="748" alt="image" src="https://github.com/user-attachments/assets/9c892633-059f-429b-9756-17c33ddde688" />
+
 
